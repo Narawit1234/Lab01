@@ -1,0 +1,13 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(232, 44, 44);
+    text-align: center;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
